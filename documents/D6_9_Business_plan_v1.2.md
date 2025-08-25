@@ -1,0 +1,297 @@
+![](media/image1.png){width="4.330555555555556in"
+height="3.2152777777777777in"}
+
+FAIRICUBE --\
+F.A.I.R. INFORMATION CUBES
+
+WP6 Dissemination
+
+D6.9 Business plan
+
+Deliverable Lead: WER
+
+Deliverable due date: 31/07/2025
+
+Version: 1.3
+
+31/07/2025
+
+# Document Control Page 
+
++-------------+--------------------------------------------------------+
+| Document    |                                                        |
+| Control     |                                                        |
+| Page        |                                                        |
++=============+========================================================+
+| Title       | Business plan                                          |
++-------------+--------------------------------------------------------+
+| Creator     | EPSIT                                                  |
++-------------+--------------------------------------------------------+
+| Description | D6.9 Business plan                                     |
++-------------+--------------------------------------------------------+
+| Publisher   | "FAIRICUBE -- F.A.I.R. information cubes" Consortium   |
++-------------+--------------------------------------------------------+
+| C           | WER, EPSIT                                             |
+| ontributors |                                                        |
++-------------+--------------------------------------------------------+
+| Date of     | 31/07/2025                                             |
+| delivery    |                                                        |
++-------------+--------------------------------------------------------+
+| Type        | Text                                                   |
++-------------+--------------------------------------------------------+
+| Language    | EN-GB                                                  |
++-------------+--------------------------------------------------------+
+| Rights      | Copyright "FAIRICUBE -- F.A.I.R. information cubes"    |
++-------------+--------------------------------------------------------+
+| Audience    | ☒ Public                                               |
+|             |                                                        |
+|             | ☐ Confidential                                         |
+|             |                                                        |
+|             | ☐ Classified                                           |
++-------------+--------------------------------------------------------+
+| Status      | ☐ In Progress                                          |
+|             |                                                        |
+|             | ☐ For Review                                           |
+|             |                                                        |
+|             | ☒ For Approval                                         |
+|             |                                                        |
+|             | ☐ Approved                                             |
++-------------+--------------------------------------------------------+
+
+  --------------------------------------------------------------------------
+  Revision                                         
+  History                                          
+  ---------- -------------- ---------------------- -------------------------
+  Version    Date           Modified by            Comments
+
+  0.1        13/12/2024     Team who prepared      Annex 1
+                            Annex 1                
+
+  1.0        14/07/2025     Giacomo Martirano      First draft
+
+  1.1        17/07/2025     Giulia Salvini         Final draft
+
+  1.2        23/07/2025     Lorena Banyuls, Jaume  Review
+                            Targa                  
+
+  1.3        23/07/2025     Lorena Banyuls, Jaume  Finalisation
+                            Targa                  
+  --------------------------------------------------------------------------
+
+**\
+**
+
+# Disclaimer
+
+This document is issued within the frame and for the purpose of the
+FAIRICUBE project. This project has received funding from the European
+Union's Horizon research and innovation programme under grant agreement
+No. 101059238. The opinions expressed and arguments employed herein do
+not necessarily reflect the official views of the European Commission.
+
+This document and its content are the property of the FAIRICUBE
+Consortium. All rights relevant to this document are determined by the
+applicable laws. Access to this document does not grant any right or
+license on the document or its contents. This document or its contents
+are not to be used or treated in any manner inconsistent with the rights
+or interests of the FAIRICUBE Consortium or the Partners detriment and
+are not to be disclosed externally without prior written consent from
+the FAIRICUBE Partners. Each FAIRICUBE Partner may use this document in
+conformity with the FAIRICUBE Consortium Grant Agreement provisions.
+
+# Table of Contents
+
+[Document Control Page
+[2](#document-control-page)](#document-control-page)
+
+[Disclaimer [3](#disclaimer)](#disclaimer)
+
+[Table of Contents [4](#table-of-contents)](#table-of-contents)
+
+[List of Figures [5](#list-of-figures)](#list-of-figures)
+
+[1. Introduction [6](#introduction)](#introduction)
+
+[2. Context and objectives
+[7](#context-and-objectives)](#context-and-objectives)
+
+[3. Development Process [7](#development-process)](#development-process)
+
+[4. Overview of the Business Plan
+[7](#overview-of-the-business-plan)](#overview-of-the-business-plan)
+
+[5. About the KER: Habitat Prediction Mapping
+[8](#about-the-ker-habitat-prediction-mapping)](#about-the-ker-habitat-prediction-mapping)
+
+[6. Conclusion [8](#conclusion)](#conclusion)
+
+# List of Figures
+
+[Figure 1: Exploitation, upscaling and business planning
+[6](#_Ref154052243)](#_Ref154052243)
+
+## 1. Introduction {#introduction .list-paragraph}
+
+This deliverable presents the process and context related to the
+development of business plan for one of the FAIRiCUBE Key Exploitable
+Results (KERs) "Habitat Prediction Mapping" produced by Use Case 5
+(UC5). The UC5 business plan outlines the strategic and operational
+pathway for transforming the Habitat Prediction Mapping tool into a
+sustainable, scalable solution. It includes a high-level description of
+the product and its core functionalities, a proposed business model, and
+an exploration of its potential value in both academic and commercial
+contexts. The plan identifies target user groups and outlines a revenue
+strategy built on a freemium model, with free access offered to academic
+users and subscription-based services for commercial entities. It also
+presents a proposed technical development roadmap and discusses
+opportunities for partnerships, licensing, and grants. In addition, it
+includes a preliminary risk assessment and suggests governance and
+organisational structures that would support the long-term maintenance
+and evolution of the tool.
+
+This deliverable is closely linked to deliverable D6.10 Dissemination
+and Exploitation Plan and D6.7 Upscaling Plan, since upscaling and
+business planning are important components of the overall exploitation
+of the FAIRiCUBE results (see Figure 1). Upscaling is meant as the phase
+in which a project result is widely adopted, following a preliminary
+roll-out phase marked by early adoption of the prototype by few
+users/customers. Business planning is meant as the phase in which a
+business plan of the widely adopted project result is provided,
+containing also a provisional profit and loss account simulated for a
+period generally variable from 3 to 5 years.
+
+![](media/image3.png){width="1.7612707786526685in"
+height="1.4234372265966755in"}
+
+[]{#_Ref154052243 .anchor}Figure 1: Exploitation, upscaling and business
+planning
+
+While D6.10 contains an exploitation and dissemination strategy and plan
+for all project KERs (the FAIRiCUBE Hub and the KERs produced by the
+other use cases) and D6.7 describes a possible upscaling for the KERs
+produced by use case 1 and use case 2, a detailed business model and a
+full business plan for the KER produced by use case 5 was developed,
+representing also a template for the business planning of the other
+FAIRiCUBE KERs.
+
+**Please note**: The full UC5 Business Plan is confidential and contains
+commercially sensitive information, including financial projections,
+competitive analysis, and commercialization strategies. While this
+deliverable is publicly accessible, the full Business Plan is restricted
+to internal project stakeholders and cannot be made publicly available
+for the time being.
+
+## Context and objectives
+
+The business plan has been developed to support the transition of the
+"Habitat Prediction Mapping" tool from a research outcome to a product
+with real-world application and potential for market adoption. In the
+context of the FAIRiCUBE project, business planning refers to the
+structured process of preparing a given result---already validated in a
+research or pilot setting---for broader deployment, long-term
+sustainability, and potential commercialisation. This work contributes
+directly to FAIRiCUBE's exploitation and sustainability strategy by
+ensuring that one of its tools is positioned for uptake by relevant
+stakeholders and markets. The business plan provides a roadmap for
+identifying the most suitable value propositions, customer segments,
+revenue models, development steps, and governance arrangements necessary
+to sustain the tool's long-term impact.
+
+## 3. Development Process {#development-process .list-paragraph}
+
+The business plan was developed in collaboration with a group of
+students from Wageningen University & Research (WUR) as part of the
+Academic Consultancy Training (ACT) programme. ACT is the largest
+consultancy-oriented course at WUR, in which student teams address
+real-world challenges from external stakeholders. It is a compulsory
+component of many Master\'s programmes and is designed to offer both
+interdisciplinary collaboration and hands-on experience. The ACT team
+working on this deliverable engaged with Use Case 5 stakeholders to
+analyse the value of the KER, assess potential market applications, and
+design a suitable business model. Their work included research on user
+needs, technology positioning, delivery mechanisms, and long-term
+governance. The result of their efforts is a complete business plan that
+reflects both the scientific foundations of the product and the
+practical considerations required for its operationalisation.
+
+## 4. Overview of the Business Plan {#overview-of-the-business-plan .list-paragraph}
+
+UC5 has developed an AI-based habitat classification and biodiversity
+assessment tool that combines machine learning and remote sensing
+technologies. This tool provides high-level ecological insights and
+supports predictive modelling, ecosystem mapping, and species
+classification. The tool is currently designed with a freemium model,
+ensuring free access for academic institutions while offering premium
+services for commercial clients, creating a scalable and inclusive
+business model. To support the further development and commercialisation
+of this tool, the business plan recommends expanding NHMW's revenue
+stream by offering licensed datasets that users can export and integrate
+into their own workflows. By providing tiered access---including free
+tiers for academic users and paid subscriptions for commercial
+organisations---NHMW can serve a wide range of stakeholders while
+generating sustainable income. The availability of a free version
+stimulates demand for premium updates and value-added features. The
+sales strategy will be based on a free-tier model for academic users and
+a subscribing model for commercial clients. The project plans to make
+the product scalable, develop the features of the product continuously,
+and remain competitive in the market. Profit will be made from selling
+premium subscriptions, partnerships, and grants. This strategy aligns
+with a growing market. The habitat classification and biodiversity
+assessment sector is expanding rapidly, driven by advances in artificial
+intelligence, the increasing availability of remote sensing data, and
+heightened global environmental awareness. The environmental technology
+market, valued at \$600 billion in 2022, is projected to grow at a 5.3%
+annual rate, creating substantial opportunity for FAIRiCUBE and related
+initiatives. In parallel, the market for AI-enabled Earth observation
+and remote sensing continues to grow, increasing the demand for
+high-quality biodiversity information.
+
+Despite competition from tools like MaxEnt and Bioclim, the NHMW script
+holds a competitive advantage due to its broader capabilities, lack of
+typical limitations found in existing tools, and ease of use. To
+maintain this edge and scale impact, a web-based platform will be
+developed. This platform will enable real-time environmental data
+access, improve user experience, and support a clear commercialisation
+plan. To advance the project, a web-based platform will be developed.
+This platform will offer the convenience of access, real-time
+environmental data, and a clear commercialisation plan to ensure growth.
+This is the estimated investment needed for this project, covering both
+short-term development and long-term sustainability. The short-term
+plans are to focus on governance, technical development, partnership
+formation, and pilot testing while the long-term plans are to focus on
+scalability, more features, and increasing customer reach. Some of the
+major milestones include setting up the project governance, technical
+development, pilot testing, and launching the product.
+
+## 5. About the KER: Habitat Prediction Mapping {#about-the-ker-habitat-prediction-mapping .list-paragraph}
+
+Use Case 5 has produced a tool known as "Habitat Prediction Mapping,"
+which combines artificial intelligence and remote sensing technologies
+to deliver insights into habitat classification, biodiversity
+assessment, and ecosystem modelling. The tool is intended to support a
+range of users working in ecological research, environmental monitoring,
+and natural resource management. The solution stands out for its
+innovative use of machine learning techniques applied to large-scale
+environmental data. Its design enables predictive modelling that
+supports evidence-based decision-making for conservation planning,
+species distribution analysis, and land-use assessments. While academic
+users are expected to access a free version of the tool, commercial
+clients may benefit from enhanced features and services, supporting a
+dual-access model that can sustain long-term growth.
+
+The business plan developed for this KER is a key step toward the
+practical exploitation of UC5 results. It demonstrates how one output
+can be transitioned from a research prototype into a scalable,
+user-oriented solution. The work done here complements the wider
+strategy documented in D6.10 by offering a detailed case of business
+model development and product positioning. It also aligns with the
+upscaling concepts explored in D6.7 by identifying the operational and
+technical milestones needed to prepare the product for wider adoption.
+
+## 6. Conclusion {#conclusion .list-paragraph}
+
+This deliverable confirms that a full business plan has been produced
+for the "Habitat Prediction Mapping" tool created by Use Case 5. While
+the full content of the plan remains confidential, its development
+represents an important step in the UC5 commitment to support real-world
+application and sustainable exploitation of its outputs.
